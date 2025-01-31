@@ -18,7 +18,7 @@ Repository Contents
 Version History
 ---------------
 
-* [v1.0.0](https://github.com/RoboCore/BRIICK_Encoder) - First release.
+* [v1.0.0](https://github.com/RoboCore/RoboCore_BRIICK_Encoder) - First release.
 
 License Information
 -------------------
